@@ -1,5 +1,5 @@
 
-## RUML Diagram Specifications github
+## RUML Diagram Specifications
 
 The RUML diagram specified a Library Management System with:
 
