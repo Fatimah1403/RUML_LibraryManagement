@@ -35,7 +35,7 @@ The RUML diagram specified a Library Management System with:
 - **Implementation**: Partial Success - Most classes implemented but with variations
 - **Issues**: LibraryItem as interface instead of abstract class, different data types
 - **Compilation**: ✅ Compiles
-- **Accuracy**: ⚠️ Partially matches RUML specifications
+- **Accuracy**: ⚠️ Partially matches RUML specifications.
 
 ## How to Run
 
